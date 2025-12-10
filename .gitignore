@@ -1,0 +1,12 @@
+# Ignore Jupyter Notebook Checkpoints and temporary files
+.ipynb_checkpoints/
+
+# Ignore compiled Python files
+*.pyc
+__pycache__/
+
+# Ignore large data files (best practice)
+bigml.csv 
+
+# Ignore system files
+.DS_Store
